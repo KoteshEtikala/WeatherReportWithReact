@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Uday",
+      "degree": "Bcom",
+      "yop": "2023",
+      "percentage": "75%"
+    },
+    {
+      "id": "2",
+      "name": "Vamshi",
+      "degree": "Bcom",
+      "yop": "2023",
+      "percentage": "60%"
+    },
+    {
+      "id": "3",
+      "name": "Teja",
+      "degree": "BA",
+      "yop": "2023",
+      "percentage": "50%"
+    },
+    {
+      "id": "5831",
+      "name": "",
+      "degree": "",
+      "yop": "",
+      "percentage": ""
+    },
+    {
+      "id": "e78e",
+      "name": "",
+      "degree": "",
+      "yop": "",
+      "percentage": ""
+    }
+  ]
+}
